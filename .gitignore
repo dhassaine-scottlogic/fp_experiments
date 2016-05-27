@@ -1,0 +1,6 @@
+node_modules
+build/
+dist/
+typings/
+tsd.json
+npm-debug.log
