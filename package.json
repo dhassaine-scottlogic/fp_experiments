@@ -1,5 +1,5 @@
 {
-  "name": "nodetest",
+  "name": "fp_experiments",
   "version": "1.0.0",
   "main": "master.js",
   "scripts": {
